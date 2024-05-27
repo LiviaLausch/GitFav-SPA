@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Favorites - README</title>
-  <style>
-    body {
-      background-color: #f0f0f0; /* Altere esta cor para a cor desejada */
-    }
-  </style>
-</head>
-<body>
-
 # GitHub Favorites
 
 Um aplicativo simples para favoritar e exibir informações de usuários do GitHub.
@@ -40,5 +26,3 @@ Um aplicativo simples para favoritar e exibir informações de usuários do GitH
 
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em um navegador da web.
-</body>
-</html>
